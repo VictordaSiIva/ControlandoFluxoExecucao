@@ -1,0 +1,16 @@
+C:\Users\victo\Documents\Curso\Aula04\bin\Debug\net5.0\Aula04.exe
+C:\Users\victo\Documents\Curso\Aula04\bin\Debug\net5.0\Aula04.deps.json
+C:\Users\victo\Documents\Curso\Aula04\bin\Debug\net5.0\Aula04.runtimeconfig.json
+C:\Users\victo\Documents\Curso\Aula04\bin\Debug\net5.0\Aula04.runtimeconfig.dev.json
+C:\Users\victo\Documents\Curso\Aula04\bin\Debug\net5.0\Aula04.dll
+C:\Users\victo\Documents\Curso\Aula04\bin\Debug\net5.0\ref\Aula04.dll
+C:\Users\victo\Documents\Curso\Aula04\bin\Debug\net5.0\Aula04.pdb
+C:\Users\victo\Documents\Curso\Aula04\obj\Debug\net5.0\Aula04.csproj.AssemblyReference.cache
+C:\Users\victo\Documents\Curso\Aula04\obj\Debug\net5.0\Aula04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Documents\Curso\Aula04\obj\Debug\net5.0\Aula04.AssemblyInfoInputs.cache
+C:\Users\victo\Documents\Curso\Aula04\obj\Debug\net5.0\Aula04.AssemblyInfo.cs
+C:\Users\victo\Documents\Curso\Aula04\obj\Debug\net5.0\Aula04.csproj.CoreCompileInputs.cache
+C:\Users\victo\Documents\Curso\Aula04\obj\Debug\net5.0\Aula04.dll
+C:\Users\victo\Documents\Curso\Aula04\obj\Debug\net5.0\ref\Aula04.dll
+C:\Users\victo\Documents\Curso\Aula04\obj\Debug\net5.0\Aula04.pdb
+C:\Users\victo\Documents\Curso\Aula04\obj\Debug\net5.0\Aula04.genruntimeconfig.cache
